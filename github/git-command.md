@@ -43,3 +43,7 @@ git clone git@github.com:tarathep/bokie-tutorial-backend.git
 ## Cheat Cheet Command
 
 https://education.github.com/git-cheat-sheet-education.pdf
+
+## Commands
+
+https://gist.github.com/tarathec/3965378e98feb87b11ce1be8d29af7d2
