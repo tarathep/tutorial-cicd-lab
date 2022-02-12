@@ -1,0 +1,2 @@
+kubectl create secret docker-registry acrlogin --docker-server=acrtutoriallab.azurecr.io --docker-username=acrtutoriallab --docker-password=IGRUr+G6cXTa6Np9yUPnMTwhjYSwY1LY
+
