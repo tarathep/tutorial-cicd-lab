@@ -22,7 +22,7 @@ ENTRYPOINT ["command"]
   
 ```dockerfile
 # build stage
-FROM node:lts-alpine as build-stage
+FROM node:16 as build-stage
 WORKDIR /app
 COPY ./entrypoint.sh /entrypoint.sh
 COPY package*.json ./
